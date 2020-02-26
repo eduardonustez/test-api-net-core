@@ -1,0 +1,16 @@
+D:\DemoProyectos\ENRProject1\Test.WebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\DemoProyectos\ENRProject1\Test.WebApi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\DemoProyectos\ENRProject1\Test.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\DemoProyectos\ENRProject1\Test.WebApi\bin\Debug\netcoreapp2.1\Test.WebApi.deps.json
+D:\DemoProyectos\ENRProject1\Test.WebApi\bin\Debug\netcoreapp2.1\Test.WebApi.runtimeconfig.json
+D:\DemoProyectos\ENRProject1\Test.WebApi\bin\Debug\netcoreapp2.1\Test.WebApi.runtimeconfig.dev.json
+D:\DemoProyectos\ENRProject1\Test.WebApi\bin\Debug\netcoreapp2.1\Test.WebApi.dll
+D:\DemoProyectos\ENRProject1\Test.WebApi\bin\Debug\netcoreapp2.1\Test.WebApi.pdb
+D:\DemoProyectos\ENRProject1\Test.WebApi\obj\Debug\netcoreapp2.1\Test.WebApi.csprojAssemblyReference.cache
+D:\DemoProyectos\ENRProject1\Test.WebApi\obj\Debug\netcoreapp2.1\Test.WebApi.RazorAssemblyInfo.cache
+D:\DemoProyectos\ENRProject1\Test.WebApi\obj\Debug\netcoreapp2.1\Test.WebApi.RazorAssemblyInfo.cs
+D:\DemoProyectos\ENRProject1\Test.WebApi\obj\Debug\netcoreapp2.1\Test.WebApi.AssemblyInfoInputs.cache
+D:\DemoProyectos\ENRProject1\Test.WebApi\obj\Debug\netcoreapp2.1\Test.WebApi.AssemblyInfo.cs
+D:\DemoProyectos\ENRProject1\Test.WebApi\obj\Debug\netcoreapp2.1\Test.WebApi.RazorTargetAssemblyInfo.cache
+D:\DemoProyectos\ENRProject1\Test.WebApi\obj\Debug\netcoreapp2.1\Test.WebApi.dll
+D:\DemoProyectos\ENRProject1\Test.WebApi\obj\Debug\netcoreapp2.1\Test.WebApi.pdb
